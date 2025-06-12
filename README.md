@@ -32,4 +32,10 @@ whois[.]domaintools[.]com \
 The World’s First Truly Open Threat Intelligence Community \
 otx[.]alienvault[.]com
 
+## CyberChef
+gchq[.]github[.]io/CyberChef/
+
+## regex101
+regex101[.]com
+
 
