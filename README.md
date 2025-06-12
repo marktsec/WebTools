@@ -38,4 +38,13 @@ gchq[.]github[.]io/CyberChef/
 ## regex101
 regex101[.]com
 
+## any.run
+Interactive malware analysis
+app[.]any[.]run
+
+## joesandbox
+Deep Malware Analysis
+joesandbox[.]com
+
+
 
