@@ -46,5 +46,12 @@ app[.]any[.]run
 Deep Malware Analysis \
 joesandbox[.]com
 
+## ipinfo
+The Trusted Source For IP Address Data \
+ipinfo[.]io
+
+## unpacme
+Automated malware unpacking and artifact extraction \
+unpac[.]me
 
 
