@@ -55,6 +55,6 @@ Automated malware unpacking and artifact extraction \
 unpac[.]me
 
 ## crt
-Cerificate Search
+Cerificate Search \
 crt[.]sh
 
