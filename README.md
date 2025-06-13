@@ -58,3 +58,27 @@ unpac[.]me
 Cerificate Search \
 crt[.]sh
 
+## FOFA
+FOFA is a search engine for global cyberspace mapping belonging to Beijing Huashun Xin'an Technology Co., Ltd. \
+en[.]fofa[.]info
+
+## dnshistory
+Domain Name System (DNS) Historical Record Archive \
+dnshistory[.]org
+
+## securitytrails
+Use the SecurityTrails API to fetch any domain, DNS, and IP-related data. \
+securitytrails[.]com
+
+## dnsdumpster
+dns recon & research, find & lookup dns records \
+dnsdumpster[.]com
+
+## favicon-hash
+Get the favicon hash of a website's favicon for Shodan hunting
+favicon-hash[.]kmsec[.]uk
+
+## Internet Archive
+Internet Archive is a non-profit library of millions of free texts, movies, software, music, websites, and more.
+archive[.]org
+
