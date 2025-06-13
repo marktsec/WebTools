@@ -75,10 +75,10 @@ dns recon & research, find & lookup dns records \
 dnsdumpster[.]com
 
 ## favicon-hash
-Get the favicon hash of a website's favicon for Shodan hunting
+Get the favicon hash of a website's favicon for Shodan hunting \
 favicon-hash[.]kmsec[.]uk
 
 ## Internet Archive
-Internet Archive is a non-profit library of millions of free texts, movies, software, music, websites, and more.
+Internet Archive is a non-profit library of millions of free texts, movies, software, music, websites, and more. \
 archive[.]org
 
