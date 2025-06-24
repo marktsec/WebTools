@@ -86,6 +86,9 @@ archive[.]org
 Domain Intelligence Platform \
 domainhunter[.]pro
 
+## whatsmyname
+WhatsMyName Web \
+whatsmyname[.]app
 
 
 
