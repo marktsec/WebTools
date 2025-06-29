@@ -90,5 +90,9 @@ domainhunter[.]pro
 WhatsMyName Web \
 whatsmyname[.]app
 
+## fakedetail
+Fake Details Generator \
+fakedetail[.]com
+
 
 
